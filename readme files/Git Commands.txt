@@ -1,0 +1,24 @@
+git commands
+
+"username and email in github" 
+
+git config --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+
+
+Add
+git add *
+
+
+Commit
+git commit -m "Commit message"
+
+Push
+git push origin master
+
+
+
+Status
+Git status
+
+
